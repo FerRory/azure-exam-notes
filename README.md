@@ -31,6 +31,9 @@ Exam Notes for Learning Mircosoft Azure (AZ 100 and 101)
  * [Verify a VPN Gateway connection](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager)
  * [Configure a VNet-to-VNet VPN gateway connection using the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
 
-* How to configure a Load Balancer
-* How to install IIS easy
-* 
+#### Challenge
+* Create two Virtual Networks (firstNetwork and secondNetwork)
+* Add two virtual machines to firstNetwork and one virtual Machine in secondNetwork
+* Install IIS in an easy way on Virtual Machines
+* Configure Application Gateway for the Virtual Machines in firstNetwork.
+* Try out Network Watcher.
