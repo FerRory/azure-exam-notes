@@ -1,5 +1,6 @@
 # azure-exam-nots
-Exam Notes for Learning Mircosoft Azure (AZ 100 and 101)
+Exam Notes for Learning Mircosoft Azure (AZ 100 and 101) to get [Microsoft Certified:
+Azure Administrator Associate](https://www.microsoft.com/en-us/learning/azure-administrator.aspx)
 
 ## Important Links
 
