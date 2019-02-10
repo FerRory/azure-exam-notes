@@ -38,3 +38,16 @@ Azure Administrator Associate](https://www.microsoft.com/en-us/learning/azure-ad
 * Install IIS in an easy way on Virtual Machines
 * Configure Application Gateway for the Virtual Machines in firstNetwork.
 * Try out Network Watcher.
+
+### Secure Identities (25-30%)
+#### Links
+
+ * [Fraud alert](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#fraud-alert)
+ * [Deploy cloud-based Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
+ * [Trusted IPs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings#trusted-ips)
+ * [Manage access using RBAC and the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal)
+ * [Troubleshoot RBAC in Azure](https://docs.microsoft.com/en-us/azure/role-based-access-control/troubleshooting)
+ * [Activate my Azure AD directory roles in PIM](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-activate-role)
+ * [Assign Azure resource roles in PIM](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-assign-roles)
+ * [Approve or deny requests for Azure AD directory roles in PIM](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/azure-ad-pim-approval-workflow#view-pending-approvals-requests)
+ * [Start using PIM](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-getting-started)
