@@ -28,6 +28,10 @@ Exam Notes for Learning Mircosoft role based Azure Certifications.
  * [Udemy AZ-103 course of Skylines Academy](https://www.udemy.com/course/az-100-skylines-academy/)
  * [Skylines Academy Resources](https://www.skylinesacademy.com/resources)
 
+## Azure 400
+#### Links
+ * [Azure Devops AZ-400 Exam Study Notes by Gregor Suttie](https://gregorsuttie.com/2018/10/27/azure-devops-az-400-exam-study-notes/)
+
 ## Important Links
 
 * [Skylines Academy](https://www.skylinesacademy.com/)
